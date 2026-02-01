@@ -1,72 +1,67 @@
-# Hi, I'm Tarun Kumar 👋
+# Hey there, I'm Tarun 👋
 
-🎓 Electronics & Computer Science undergraduate at **GLA University**  
-🧠 OSCG ’26 Contributor  
-🔧 Interested in Embedded Systems, IoT, and Hardware–Software Co-Design  
+**Electronics & Computer Science Student | Embedded Systems | IoT | Full-Stack Development**
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I’m a second-year Electronics and Computer Science student with a strong interest in building **complete, working systems**, not isolated demos.
-
-My work spans:
-- Embedded systems and IoT
-- Hardware–software integration
-- Modern web development for user-facing control and visualization
-
-I enjoy translating **low-level electronics and system logic** into reliable, user-facing applications while dealing with real-world constraints like debugging, performance, and deployment.
-
-Currently focused on strengthening my fundamentals through **project-based learning** and **open-source contributions**.
+- 🧠 I build **end-to-end systems**, not isolated demos  
+- 🔧 Working across **Embedded Systems, IoT, and Web Development**  
+- 🌐 Converting hardware logic into **reliable user-facing applications**  
+- 📦 Open Source Contributor (OSCG ’26)  
+- 📫 Reach me at: **tarunchaudhary2271@gmail.com**
 
 ---
 
-## Skills & Technologies
+## 🛠️ Tech Stack
 
-### Embedded & Hardware
-- Embedded Systems
-- IoT Architecture
+### Hardware & Embedded
+- ESP32
+- Ultrasonic Sensors
+- RFID Modules
+- Embedded System Design
 - Hardware–Software Co-Design
-- System Debugging
 
 ### Web & Software
+- HTML
+- CSS
 - JavaScript
 - React.js
 - Next.js
-- React Native
+- TypeScript
+- Tailwind CSS
 
-### Tools & Workflow
+### Tools
 - Git & GitHub
 - Linux
 - VS Code
-- End-to-end project development
 
 ---
 
-## Experience
+## 🌍 My Project Highlights
 
-**Freelance Software Developer**  
-_Oct 2025 – Present_
-
-- Delivered end-to-end freelance projects in web development  
-- Independently handled planning, development, testing, and deployment  
-- Worked directly with requirements instead of tutorials
+| Project Name | Description | Tech Stack | Live Link |
+|-------------|------------|-----------|-----------|
+| Smart Bus Management System | Smart transportation system for managing bus access, tracking, and user interaction using integrated hardware and web interface | React, Tailwind CSS, JavaScript, HTML, ESP32, Ultrasonic Sensors, RFID | https://login-30a46.web.app/ |
+| Techtronica Society Website | Official society website to showcase events, team members, and activities | Next.js, TypeScript, Tailwind CSS | https://techtronicaglau.vercel.app/ |
 
 ---
 
-## Education
+## 📈 GitHub Stats
 
-**GLA University**  
-Bachelor of Technology — Electronics & Computer Science  
-_Aug 2024 – Dec 2028_
-
----
-
-## Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/tarun-kumar-338aa7341  
-- 📧 Email: tarunchaudhary2271@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="160"/>
+</p>
 
 ---
 
-> Building systems. Learning deeply. Shipping what works.
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- 🌐 Portfolio: coming soon
+
+---
+
+⭐ Always learning. Always building.
