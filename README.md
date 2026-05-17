@@ -1,39 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Tarun
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Electronics+%26+Computer+Science+Student;Developer;Full-Stack+Developer+%7C+Open+Source+Contributor;Building+Reliable+Hardware+%2B+Software+Systems" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Tarun%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-</div>
-
----
-
-# 🧠 About Me
-
-```yaml
-Name: Tarun Kumar
-Location: India
-Education: B.Tech Electronics & Computer Science
-University: GLA University
-Interests:
-  - Software Development
-  - IoT Development
-  - Full-Stack Applications
-  - Hardware–Software Co-Design
-  - Open Source
-Currently Learning:
-  - System Design
-  - Advanced Embedded Programming
-  - Scalable Frontend Architecture
-  - Backend Fundamentals
-```
-
-I enjoy building systems where hardware and software work together seamlessly.  
-Most projects teach theory. Mine usually teach patience, debugging, and why one misplaced wire can spiritually damage an engineer for three business days.
-
----
 
 # ⚡ Tech Arsenal
 
@@ -118,29 +85,7 @@ Official society website designed for event showcases, announcements, member man
 
 </div>
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarunchaudharydev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunchaudharydev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tarunchaudharydev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -150,7 +95,6 @@ Official society website designed for event showcases, announcements, member man
 
 </div>
 
----
 
 # 🏆 GitHub Achievements
 
@@ -160,33 +104,8 @@ Official society website designed for event showcases, announcements, member man
 
 </div>
 
----
-
-# 🧩 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/tarunchaudharydev/tarunchaudharydev/output/snake.svg" alt="snake animation"/>
-
-</div>
-
----
-
-# 📚 Current Focus
-
-<div align="center">
-
-| Focus Area | Progress |
-|---|---|
-| Embedded Systems | ██████████ 90% |
-| React & Next.js | █████████ 85% |
-| Open Source Contributions | ████ 30% |
-| System Design | ██ 20% |
-| Backend Development | ██████ 65% |
-
-</div>
-
----
 
 # 🌍 Connect With Me
 
@@ -206,17 +125,6 @@ Official society website designed for event showcases, announcements, member man
 
 </div>
 
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tarunchaudharydev&label=Profile%20Views&color=38bdf8&style=for-the-badge"/>
-
-</div>
-
----
 
 # ⚡ Philosophy
 
