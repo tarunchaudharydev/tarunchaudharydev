@@ -138,6 +138,5 @@ Official society website designed for event showcases, announcements, member man
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
 
 </div>
