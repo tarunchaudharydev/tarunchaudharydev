@@ -1,14 +1,15 @@
+
 <div align="center">
-
-
 
 # ⚡ Tech Arsenal
 
-<div align="center">
-
-## 🛠 Embedded & Hardware
+## 🛠 Embedded Systems & Hardware
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,linux" />
+
+<br>
+
+`ESP32` • `Matter` • `MQTT` • `Cadence Virtuoso` • `KiCad` • `PCB Design` • `Embedded Linux`
 
 ---
 
@@ -16,11 +17,19 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
+<br>
+
+`Responsive UI` • `Performance Optimization` • `Modern Web Apps`
+
 ---
 
 ## ⚙ Backend & Tools
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,vscode" />
+
+<br>
+
+`REST APIs` • `Cloud Deployment` • `Version Control`
 
 </div>
 
@@ -31,22 +40,24 @@
 <div align="center">
 
 <table>
-
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## 🚌 Smart Bus Management System
 
 Smart transportation platform integrating embedded hardware with a modern web interface for authentication, monitoring, and interaction.
 
 ### ✨ Features
+
 - RFID Authentication
 - Real-Time Monitoring
 - Sensor-Based Detection
 - Hardware + Web Integration
 
 ### 🛠 Stack
-`ESP32` `RFID` `Ultrasonic Sensors`  
+
+`ESP32` `RFID` `Ultrasonic Sensors`
 `React` `JavaScript` `Tailwind CSS`
 
 ### 🌐 Live Demo
@@ -57,19 +68,21 @@ Smart transportation platform integrating embedded hardware with a modern web in
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌐 Techtronica Society Website
 
 Official society website designed for event showcases, announcements, member management, and scalable frontend performance.
 
 ### ✨ Features
+
 - Responsive UI
 - Modern Design
 - Optimized Performance
 - Scalable Components
 
 ### 🛠 Stack
+
 `Next.js` `TypeScript` `Tailwind CSS`
 
 ### 🌐 Live Demo
@@ -79,33 +92,53 @@ Official society website designed for event showcases, announcements, member man
 </a>
 
 </td>
-</tr>
 
+</tr>
 </table>
 
 </div>
+---
 
+# 📊 GitHub Stats
 
+<!-- <div align="center">
 
-# 📈 Contribution Graph
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarunchaudharydev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunchaudharydev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div> -->
+
+<br>
 
 <div align="center">
 
-[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunchaudharydev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/tarunchaudharydev)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunchaudharydev&theme=tokyonight"/>
 
 </div>
 
-
-# 🏆 GitHub Achievements
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tarunchaudharydev&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunchaudharydev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarunchaudharydev&theme=tokyonight"/>
 
 </div>
 
+<br>
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunchaudharydev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunchaudharydev&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
 
 # 🌍 Connect With Me
 
@@ -125,6 +158,7 @@ Official society website designed for event showcases, announcements, member man
 
 </div>
 
+---
 
 # ⚡ Philosophy
 
@@ -134,9 +168,3 @@ Official society website designed for event showcases, announcements, member man
 
 </div>
 
----
-
-<div align="center">
-
-
-</div>
