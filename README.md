@@ -31,54 +31,77 @@
 
 ---
 
-#  Featured Projects
 
-<div align="center">
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-##  Smart Bus Management System
+### 🏫 CampusMatter
 
-Smart transportation platform integrating embedded hardware with a modern web interface for authentication, monitoring, and interaction.
+<img src="https://img.shields.io/badge/Smart_Campus-Matter-7C3AED?style=for-the-badge"/>
 
-###  Features
-- RFID Authentication
-- Real-Time Monitoring
-- Sensor-Based Detection
-- Hardware + Web Integration
+Matter-powered smart infrastructure platform for intelligent campus automation and energy optimization.
 
-###  Stack
-`ESP32` `RFID` `Ultrasonic Sensors`
-`React` `JavaScript` `Tailwind CSS`
+**Tech**
+`Matter` `ESP32` `React` `Node.js`
 
-###  Live Demo
-<a href="https://login-30a46.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/Visit_Project-0A66C2?style=for-the-badge&logo=firebase&logoColor=white"/>
+<a href="https://github.com/tarunchaudharydev/CampusMatter">
+<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-##  Techtronica Society Website
+### 🚌 Smart Bus Management
 
-Official society website designed for event showcases, announcements, member management, and scalable frontend performance.
+<img src="https://img.shields.io/badge/IoT-Transportation-2563EB?style=for-the-badge"/>
 
-###  Features
-- Responsive UI
-- Modern Design
-- Optimized Performance
-- Scalable Components
+Smart transportation system combining embedded hardware with real-time monitoring and web integration.
 
-###  Stack
+**Tech**
+`ESP32` `RFID` `React` `Tailwind CSS`
+
+<a href="https://login-30a46.web.app/">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Techtronica Website
+
+<img src="https://img.shields.io/badge/Web_Platform-Next.js-000000?style=for-the-badge"/>
+
+Official society platform for events, announcements, and member engagement.
+
+**Tech**
 `Next.js` `TypeScript` `Tailwind CSS`
 
-###  Live Demo
-<a href="https://techtronicaglau.vercel.app/" target="_blank">
+<a href="https://techtronicaglau.vercel.app/">
 <img src="https://img.shields.io/badge/View_Website-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Explore More
+
+<img src="https://img.shields.io/badge/20+-Repositories-F59E0B?style=for-the-badge"/>
+
+More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
+
+<a href="https://github.com/tarunchaudharydev?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -86,7 +109,6 @@ Official society website designed for event showcases, announcements, member man
 </tr>
 </table>
 
-</div>
 
 ---
 
