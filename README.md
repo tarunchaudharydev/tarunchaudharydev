@@ -32,14 +32,14 @@
 ---
 
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🏫 CampusMatter
+###  CampusMatter
 
 <img src="https://img.shields.io/badge/Smart_Campus-Matter-7C3AED?style=for-the-badge"/>
 
@@ -77,7 +77,7 @@ Smart transportation system combining embedded hardware with real-time monitorin
 
 <td width="50%" valign="top">
 
-### 🌐 Techtronica Website
+###  Techtronica Website
 
 <img src="https://img.shields.io/badge/Web_Platform-Next.js-000000?style=for-the-badge"/>
 
@@ -94,7 +94,7 @@ Official society platform for events, announcements, and member engagement.
 
 <td width="50%" valign="top">
 
-### 🚀 Explore More
+###  Explore More
 
 <img src="https://img.shields.io/badge/20+-Repositories-F59E0B?style=for-the-badge"/>
 
@@ -176,11 +176,3 @@ More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
 </div>
 
 ---
-
-#  Philosophy
-
-<div align="center">
-
-> *"One day your body gets permanent rest. Until then, deadlines."*
-
-</div>
