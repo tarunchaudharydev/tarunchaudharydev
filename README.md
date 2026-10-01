@@ -1,51 +1,77 @@
 <div align="center">
 
-#  Tech Arsenal
+# Open Source Contributions
 
-###  Embedded Systems & Hardware
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,linux" />
+<p>Active contributor to open-source software, optimization frameworks, and developer tooling.</p>
 
-<br>
+<a href="https://github.com/apache/superset" target="_blank">
+  <img src="https://img.shields.io/badge/Apache_Superset-22A6B3?style=for-the-badge&logo=apache&logoColor=white" />
+</a>
+<a href="https://github.com/google/jax" target="_blank">
+  <img src="https://img.shields.io/badge/JAX-Google_Research-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<a href="https://github.com/webpack/webpack" target="_blank">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+</a>
 
-`ESP32` • `Matter` • `MQTT` • `Cadence Virtuoso` • `KiCad` • `PCB Design` • `Embedded Linux` • `FreeRTOS`
+<br><br>
+
+> 🚀 **Currently Building:** A full-stack **Analytics Platform** focusing on real-time data visualization and high-throughput telemetry.
+
+</div>
 
 ---
 
-###  Frontend Development
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 <br>
 
 `Responsive UI` • `Performance Optimization` • `Modern Web Apps` • `State Management`
 
----
+<br><br>
 
-###  Backend, Cloud & Protocols
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,vscode,bash" />
 
 <br>
 
 `REST APIs` • `WebSockets` • `Cloud Deployment` • `Version Control` • `CI/CD`
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<br>
+
+`100% Linux Environment` • `Terminal / Bash` • `Shell Scripting` • `System Optimization`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" />
+
+<br>
+
+`ESP32` • `Matter` • `MQTT` • `Cadence Virtuoso` • `KiCad` • `PCB Design` • `Embedded Linux` • `FreeRTOS`
+
 </div>
 
 ---
 
-
-#  Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-###  CampusMatter
+### CampusMatter
 
 <img src="https://img.shields.io/badge/Smart_Campus-Matter-7C3AED?style=for-the-badge"/>
 
 Matter-powered smart infrastructure platform for intelligent campus automation and energy optimization.
 
-**Tech**
+**Tech**  
 `Matter` `ESP32` `React` `Node.js`
 
 <a href="https://github.com/tarunchaudharydev/CampusMatter">
@@ -56,13 +82,13 @@ Matter-powered smart infrastructure platform for intelligent campus automation a
 
 <td width="50%" valign="top">
 
-###  Smart Bus Management
+### Smart Bus Management
 
 <img src="https://img.shields.io/badge/IoT-Transportation-2563EB?style=for-the-badge"/>
 
 Smart transportation system combining embedded hardware with real-time monitoring and web integration.
 
-**Tech**
+**Tech**  
 `ESP32` `RFID` `React` `Tailwind CSS`
 
 <a href="https://login-30a46.web.app/">
@@ -77,13 +103,13 @@ Smart transportation system combining embedded hardware with real-time monitorin
 
 <td width="50%" valign="top">
 
-###  Techtronica Website
+### Techtronica Website
 
 <img src="https://img.shields.io/badge/Web_Platform-Next.js-000000?style=for-the-badge"/>
 
 Official society platform for events, announcements, and member engagement.
 
-**Tech**
+**Tech**  
 `Next.js` `TypeScript` `Tailwind CSS`
 
 <a href="https://techtronicaglau.vercel.app/">
@@ -94,7 +120,7 @@ Official society platform for events, announcements, and member engagement.
 
 <td width="50%" valign="top">
 
-###  Explore More
+### Explore More
 
 <img src="https://img.shields.io/badge/20+-Repositories-F59E0B?style=for-the-badge"/>
 
@@ -109,14 +135,22 @@ More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
 </tr>
 </table>
 
-
 ---
 
-#  GitHub Analytics
+# Coding & GitHub Analytics
 
 <div align="center">
 
-###  Streak Counter
+### 📊 WakaTime Development Stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunchaudharydev&theme=tokyonight&layout=compact&hide_border=true" alt="WakaTime Stats" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Streak Counter
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunchaudharydev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -149,8 +183,7 @@ More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
 
 ---
 
-
-#  Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -167,5 +200,3 @@ More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
 </a>
 
 </div>
-
----
