@@ -134,6 +134,11 @@ More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
 # Coding & Development Analytics
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br>
