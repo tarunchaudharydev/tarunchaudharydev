@@ -2,8 +2,6 @@
 
 # Open Source Contributions
 
-<p>Active contributor to open-source software, optimization frameworks, and developer tooling.</p>
-
 <a href="https://github.com/apache/superset" target="_blank">
   <img src="https://img.shields.io/badge/Apache_Superset-22A6B3?style=for-the-badge&logo=apache&logoColor=white" />
 </a>
@@ -13,10 +11,6 @@
 <a href="https://github.com/webpack/webpack" target="_blank">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
 </a>
-
-<br><br>
-
-> 🚀 **Currently Building:** A full-stack **Analytics Platform** focusing on real-time data visualization and high-throughput telemetry.
 
 </div>
 
@@ -137,20 +131,15 @@ More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
 
 ---
 
-# Coding & GitHub Analytics
+# Coding & Development Analytics
 
-<div align="center">
-
-### 📊 WakaTime Development Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunchaudharydev&theme=tokyonight&layout=compact&hide_border=true" alt="WakaTime Stats" />
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
 <div align="center">
 
-### ⚡ Streak Counter
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunchaudharydev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
