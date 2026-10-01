@@ -2,28 +2,21 @@ name: WakaTime Stats Sync
 
 on:
   schedule:
-    # Runs automatically every day at 00:00 UTC
+    # Runs daily at 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README with WakaTime Stats
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update Readme with Metrics
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Valid Supported Feature Flags
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_PROFILE_VIEWS: "False"
