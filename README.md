@@ -2,8 +2,8 @@
 
 # Open Source Contributions
 
-<a href="https://github.com/apache/superset" target="_blank">
-  <img src="https://img.shields.io/badge/Apache_Superset-22A6B3?style=for-the-badge&logo=apache&logoColor=white" />
+<a href="https://github.com/apache/superset/pull/44833" target="_blank">
+  <img src="https://img.shields.io/badge/Apache_Superset-PR_%2344833-22A6B3?style=for-the-badge&logo=apache&logoColor=white" />
 </a>
 <a href="https://github.com/google/jax" target="_blank">
   <img src="https://img.shields.io/badge/JAX-Google_Research-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -18,6 +18,8 @@
 
 <div align="center">
 
+### Frontend & Web Engineering
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 <br>
@@ -25,6 +27,8 @@
 `Responsive UI` • `Performance Optimization` • `Modern Web Apps` • `State Management`
 
 <br><br>
+
+### Backend, Databases & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,vscode,bash" />
 
@@ -34,76 +38,32 @@
 
 <br><br>
 
+### Linux & Operating Environment
+
 <img src="https://skillicons.dev/icons?i=linux" />
 
 <br>
 
 `100% Linux Environment` • `Terminal / Bash` • `Shell Scripting` • `System Optimization`
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" />
-
-<br>
-
-`ESP32` • `Matter` • `MQTT` • `Cadence Virtuoso` • `KiCad` • `PCB Design` • `Embedded Linux` • `FreeRTOS`
-
 </div>
 
 ---
 
-# Featured Projects
+# Featured Software Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### CampusMatter
-
-<img src="https://img.shields.io/badge/Smart_Campus-Matter-7C3AED?style=for-the-badge"/>
-
-Matter-powered smart infrastructure platform for intelligent campus automation and energy optimization.
-
-**Tech**  
-`Matter` `ESP32` `React` `Node.js`
-
-<a href="https://github.com/tarunchaudharydev/CampusMatter">
-<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Smart Bus Management
-
-<img src="https://img.shields.io/badge/IoT-Transportation-2563EB?style=for-the-badge"/>
-
-Smart transportation system combining embedded hardware with real-time monitoring and web integration.
-
-**Tech**  
-`ESP32` `RFID` `React` `Tailwind CSS`
-
-<a href="https://login-30a46.web.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=firebase&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Techtronica Website
+### Techtronica Web Platform
 
 <img src="https://img.shields.io/badge/Web_Platform-Next.js-000000?style=for-the-badge"/>
 
-Official society platform for events, announcements, and member engagement.
+Official society platform built for events management, announcements, and member engagement.
 
-**Tech**  
+**Tech Stack**  
 `Next.js` `TypeScript` `Tailwind CSS`
 
 <a href="https://techtronicaglau.vercel.app/">
@@ -114,11 +74,49 @@ Official society platform for events, announcements, and member engagement.
 
 <td width="50%" valign="top">
 
-### Explore More
+### Apache Superset Bug Fixes & Improvements
+
+<img src="https://img.shields.io/badge/Open_Source-Apache-22A6B3?style=for-the-badge&logo=apache&logoColor=white"/>
+
+Active upstream contributions focused on frontend stability, component behavior, and framework optimization.
+
+**Tech Stack**  
+`React` `TypeScript` `Python`
+
+<a href="https://github.com/apache/superset/pull/44833">
+<img src="https://img.shields.io/badge/View_PR_%2344833-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Smart Bus System Dashboard
+
+<img src="https://img.shields.io/badge/Web_Dashboard-React-2563EB?style=for-the-badge"/>
+
+Real-time monitoring interface for tracking bus routes, user authentication logs, and status updates.
+
+**Tech Stack**  
+`React` `Tailwind CSS` `Firebase`
+
+<a href="https://login-30a46.web.app/">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Repository Archive
 
 <img src="https://img.shields.io/badge/20+-Repositories-F59E0B?style=for-the-badge"/>
 
-More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
+Software engineering projects spanning web applications, developer tooling, and algorithms.
 
 <a href="https://github.com/tarunchaudharydev?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_All-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -131,18 +129,9 @@ More projects in Software Engineering, AI/ML, Cloud, IoT, and Open Source.
 
 ---
 
-# Coding & Development Analytics
+# Development Analytics
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 30 September 2026 - To: 30 September 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br>
