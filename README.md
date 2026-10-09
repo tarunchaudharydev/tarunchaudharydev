@@ -134,12 +134,13 @@ Software engineering projects spanning web applications, developer tooling, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 30 September 2026 - To: 08 October 2026
 
-Total Time: 2 hrs 32 mins
+Total Time: 3 hrs 32 mins
 
-Java     1 hr 46 mins          █████████████████▒░░░░░░░   69.88 %
-Python   45 mins               ███████▓░░░░░░░░░░░░░░░░░   30.12 %
+Java     1 hr 46 mins          ████████████▓░░░░░░░░░░░░   50.02 %
+Python   1 hr 29 mins          ██████████▒░░░░░░░░░░░░░░   41.86 %
+Bash     17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->
