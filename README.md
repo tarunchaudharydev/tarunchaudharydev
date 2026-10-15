@@ -134,15 +134,15 @@ Software engineering projects spanning web applications, developer tooling, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 13 October 2026
+From: 30 September 2026 - To: 14 October 2026
 
-Total Time: 10 hrs 8 mins
+Total Time: 10 hrs 10 mins
 
-TypeScript   3 hrs 19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-Other        3 hrs 4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
-Markdown     2 hrs 23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-Java         1 hr 46 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Python       1 hr 36 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Other        5 hrs                 ████████▒░░░░░░░░░░░░░░░░   33.00 %
+TypeScript   3 hrs 21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Markdown     2 hrs 23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+Java         1 hr 46 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Python       1 hr 36 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
 ```
 
 <!--END_SECTION:waka-->
